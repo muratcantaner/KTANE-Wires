@@ -7,8 +7,7 @@ int kablo,kes,kesilecek;
 
 // B K M Sa Si
 srand (time(NULL));
-kablo=rand() % 4+3;  //bu finalde calisacak satir.
-//kablo=6;  //yazarken kolay denemek icin bu satir var.
+kablo=rand() % 4+3; 
 int kirsay=0;
 int mavsay=0;
 int sarsay=0;
