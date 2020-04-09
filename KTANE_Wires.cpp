@@ -65,7 +65,7 @@ else if (renk[i]==5)
 	}
 
 }
-cout << "\nWhich Number Will You Cut?\n";
+cout << "\nWhich Wire Will You Cut?\n";
 cin >>kes;
 
 
